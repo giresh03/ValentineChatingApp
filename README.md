@@ -1,10 +1,10 @@
-<h1 align="center">Redis Chat App ⚡</h1>
+<h1 align="center">valentine Chat App ⚡</h1>
 
 ![Demo App](/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/0Kzd4k1YuCA)
 
-About This Course:
+
+About me Girish:
 
 -   ⚛️ Tech Stack: Next.js 14, TypeScript, Tailwind CSS, `UPSTASH` Redis
 -   🔐 Authentication
@@ -19,7 +19,7 @@ About This Course:
 -   💙 Awesome Landing Page
 -   🌐 Deployment
 -   🚀 And Many More Cool Features
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
+
 
 ### Setup .env file
 
@@ -60,22 +60,4 @@ npm install
 npm run dev
 ```
 
-## `Timestamps` for your convenience:
-
--   00:00:00 - App Showcase
--   00:01:52 - Project Setup
--   00:14:40 - Auth Page Design
--   00:26:40 - Preferences Tab
--   00:46:20 - Chat Layout Design
--   02:09:00 - Satisfying Typing Effect (easy)
--   02:15:00 - Authentication
--   02:23:00 - Auth Callback and Redis
--   02:54:50 - Fetch Users for Sidebar
--   03:18:30 - SEND Messages
--   03:41:00 - GET Messages
--   03:53:30 - SEND Images
--   04:08:05 - Realtime Messages
--   04:31:50 - Deployment
--   04:38:10 - Testing in Production and Bye!
-
-### I'll see you in the next one! 🚀
+support me for the next project 😉
